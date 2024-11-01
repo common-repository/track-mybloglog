@@ -1,0 +1,26 @@
+.tmbl_message {
+ background:#fff;
+ border:1px solid #eee;
+ margin:10px 0;
+ width:100%;
+ padding:0;
+ margin:0;
+}
+
+.tmbl_avatar {
+ float:left;
+ padding:0;
+ margin:0;
+ padding:5px;
+}
+
+.tmbl_avatar img{
+ border:none;
+ margin:0;
+ padding:0;
+ vertical-align:top;
+}
+
+.tmbl_text {
+ padding:5px;
+}
